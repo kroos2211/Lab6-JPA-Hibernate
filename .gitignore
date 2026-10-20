@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+.env
+*.local.properties
+*password*
+*.secret
+*.tmp
+*.log
